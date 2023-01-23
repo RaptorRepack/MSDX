@@ -18,10 +18,6 @@ Information status
 - Software Installer Developer: Raptor Repack™
 - Software Copyright: © Raptor Repack 2023,Inc
 
-Changelog
------------------------------------------------
-- Coming Soon...
-
 Important notes
 -----------------------------------------------
 - Today 05:00pm Beta Testing Started (GMT-06:00)
