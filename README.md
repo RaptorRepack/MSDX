@@ -8,11 +8,11 @@ This Software Fully Open Source Software And This Software All Data Available Fo
 
 Information status
 ------------------------------------------------
-- Software Name: Microsoft Visual C++
-- Software Versions: v2.0.20.23
-- Software Mode: Redistributable
-- Software Architecture: 64bit
-- Software Build Edition: All In One
+- Software Name: Microsoft™ DirectX 11
+- Software Versions: v1.0.20.23
+- Software Architecture: 64bit Only
+- Software Operating System: Windows 11 Only
+- Software Build Edition: Ultimate
 - Software File Space: Coming Soon...
 - Software Installer Designer: Raptor Repack™
 - Software Installer Developer: Raptor Repack™
@@ -20,7 +20,7 @@ Information status
 
 Changelog
 -----------------------------------------------
-- Coming
+- Coming Soon...
 
 Important notes
 -----------------------------------------------
