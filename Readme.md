@@ -10,6 +10,7 @@ Information status
 ------------------------------------------------
 - Software Name: Microsoft™ DirectX 11
 - Software Versions: v1.0.20.23
+- Software Build Versions: v10.00.17763.0001
 - Software Architecture: 64bit Only
 - Software Operating System: Windows 11 Only
 - Software Build Edition: Ultimate
