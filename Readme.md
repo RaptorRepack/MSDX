@@ -21,7 +21,7 @@ Information status
 
 Important notes
 -----------------------------------------------
-- Today 05:00pm Beta Testing Started (GMT-06:00)
+- 23 January 2023 05:00pm Beta Testing Started (GMT-06:00)
 
 Social media
 -----------------------------------------------
