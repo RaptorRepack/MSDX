@@ -21,7 +21,9 @@ Information status
 
 Important notes
 -----------------------------------------------
-- 23 January 2023 05:00pm Beta Testing Started (GMT-06:00)
+23 January 2023 05:00pm Internally Beta Testing Started (GMT-06:00)
+Beta Project Files Or Any Setup Files Not Release
+Next Month Coming Stable Build To Wait Please
 
 Social media
 -----------------------------------------------
