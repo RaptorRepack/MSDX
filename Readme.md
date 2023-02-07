@@ -8,7 +8,7 @@ This Software Fully Open Source Software And This Software All Data Available Fo
 
 Information status
 ------------------------------------------------
-- Software Name: Microsoft™ DirectX 11
+- Software Name: Microsoft™ DirectX 11 Ultimate 
 - Software Versions: v1.0.20.23
 - Software Build Versions: v10.00.17763.0001
 - Software Architecture: 64bit Only
@@ -21,8 +21,8 @@ Information status
 
 Important notes
 -----------------------------------------------
-- 4 February 2023 09:00pm (BDT) Time Under Beta Testing Started
-- Beta Project Files Or Any Setup Files Not Release
+- DirectX 11 Ultimate 7 February 2023 04:00pm (BDT) Time, Under Beta Testing Started..!
+- Beta Project Files Coming Soon...
 - Next Month Coming Stable Build To Wait Please
 
 Social media
