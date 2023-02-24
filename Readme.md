@@ -21,9 +21,8 @@ Information status
 
 Important notes
 -----------------------------------------------
-- DirectX 11 Ultimate™ 19 February 2023 10:00pm (BDT) 3rd Under Beta Testing Started..!
-- Beta Project Files 25th
-- 10 March Month Coming Stable Build To Wait Please
+- Tomorrow Coming Beta Project Files.
+- 10 March Month Coming Stable Build To Wait Please.
 
 Social media
 -----------------------------------------------
