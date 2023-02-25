@@ -24,7 +24,7 @@ Product Informations
 
 Important Notes
 -----------------------------------------------
-- Tomorrow Coming Beta Project Files.
+- Beta Project Files Release Today Not Possible Because Beta Project Files Maintenances Process, 27 February Is Final Date Planned.
 - 10 March Month Coming Stable Build To Wait Please.
 
 Social Media
