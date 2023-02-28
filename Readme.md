@@ -1,7 +1,7 @@
 Notes
 -------------------------------------------------
 
-Microsoft™ DirectX 11 Project Folder Name Is MSDX.
+Microsoft™ DirectX 11 Project Folder Name Is msdx.
 
 This Microsoft ™ DirectX 11 All Data Found On Microsoft™ Servers.
 
@@ -24,8 +24,7 @@ Product Informations
 
 Important Notes
 -----------------------------------------------
-- Beta Project Files Release Not Possible Because Beta Project Files Maintenances Processed, 27 February Is Final Date Planned.
-- 10 March Month Coming Stable Build To Wait Please.
+- Beta Testing Has Been Closed, 10 March Month Coming Stable Build To Wait Please.
 
 Social Media
 -----------------------------------------------
