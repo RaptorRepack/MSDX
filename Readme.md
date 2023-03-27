@@ -24,7 +24,7 @@ Product Informations
 
 Important Notes
 -----------------------------------------------
-- Beta Testing Has Been Closed, 10 March Month Coming Stable Build To Wait Please.
+- Stable Release Coming Soon...
 
 Social Media
 -----------------------------------------------
