@@ -1,7 +1,7 @@
 Notes
 -----
 
-• Microsoft™ DirectX 11 Ultimate Project Folder Name Is (msdx).
+• Microsoft™ DirectX 11 Ultimate Project Folder Name Is (MSDX).
 
 • This Microsoft ™ DirectX 11 Ultimate All Data Found On Microsoft™ Servers.
 
@@ -28,4 +28,4 @@ Important Notes
 
 Social Media
 ------------
-- Twitter Page: https://s.id/1SYd8
+- Twitter Page: https://s.id/TwitterRR
