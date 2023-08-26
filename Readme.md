@@ -3,9 +3,9 @@ Software Notes
 
 • Microsoft DirectX 11 Ultimate Project Folder Name Is (MSDX).
 
-• This Microsoft ™ DirectX 11 Ultimate All Data Found On Microsoft™ Servers.
+• This Microsoft DirectX 11 Ultimate All Data Found On Microsoft Servers.
 
-• If You Interested To My Repack Then Install This Microsoft™ DirectX 11 Ultimate.
+• If You Interested To My Repack Then Install This Microsoft DirectX 11 Ultimate.
 
 • This Software Fully Open Source Software And This Software All Data Available For My GitHub Page Only.
 
