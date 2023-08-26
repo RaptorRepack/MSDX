@@ -18,7 +18,6 @@ Product Informations
 - Product Installer Version: v1.0.0.0-OEM
 - Product Generic Version: v10.00.17763.0001
 - Product Generic Code Name: DX 11 Ultimate
-- Product Edition: Ultimate
 - Product OS Support: Win 10 or Win 11
 - Product OS Build Version: 22H2 or Higher
 - Product OS Architecture: 64bit
