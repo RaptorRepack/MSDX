@@ -23,7 +23,7 @@ Product Informations
 - Product Install Space Size: 1x.xx MB
 - Product Designer: Raptor Repack
 - Product Developer: Raptor Repack
-- Product Copyright: © Raptor Repack 2023 Co,Inc
+- Product Copyright: © Raptor Repack 2023 Co.Inc
 
 Important Notes
 ---------------
