@@ -1,5 +1,5 @@
-Notes
------
+Software Notes
+--------------
 
 • Microsoft™ DirectX 11 Ultimate Project Folder Name Is (MSDX).
 
@@ -9,22 +9,26 @@ Notes
 
 • This Software Fully Open Source Software And This Software All Data Available For My GitHub Page Only.
 
+• Microsoft DirectX 11 Ultimate Related Kind Of All Informations Sharing With Twitter, Please Follow Now My Twitter Page.
+
 Product Informations
 --------------------
-- Software Name: Microsoft™ DirectX 11 Ultimate 
-- Software Versions: v1.0.20.23
-- Software Build Versions: v10.00.17763.0001
-- Software Architecture: 64bit Only
-- Software Operating System: Windows 11 Only
-- Software Build Edition: Ultimate
-- Software File Space: Coming Soon...
-- Software Installer Designer: Raptor Repack™
-- Software Installer Developer: Raptor Repack™
-- Software Copyright: © Raptor Repack 2023,Inc
+- Product Name: Microsoft™ DirectX 11 Ultimate 
+- Product Version: v1.0.0.0
+- Product Installer Version: v1.0.0.0-OEM
+- Product Generic Version: v10.00.17763.0001
+- Product Edition: Ultimate
+- Product OS Support: Win 10 or Win 11
+- Product OS Build Version: 22H2 or Higher
+- Product OS Architecture: 64bit
+- Product Install Space Size: 1x.xx MB
+- Product Designer: Raptor Repack
+- Product Developer: Raptor Repack
+- Product Copyright: © Raptor Repack 2023 Co,Inc
 
 Important Notes
 ---------------
-- Stable Release Coming Soon...
+- Stable Release In 20 September 2023.
 
 Social Media
 ------------
