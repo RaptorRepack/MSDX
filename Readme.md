@@ -1,7 +1,7 @@
 Software Notes
 --------------
 
-• Microsoft™ DirectX 11 Ultimate Project Folder Name Is (MSDX).
+• Microsoft DirectX 11 Ultimate Project Folder Name Is (MSDX).
 
 • This Microsoft ™ DirectX 11 Ultimate All Data Found On Microsoft™ Servers.
 
@@ -13,10 +13,11 @@ Software Notes
 
 Product Informations
 --------------------
-- Product Name: Microsoft™ DirectX 11 Ultimate 
+- Product Name: MSDX 11 Ultimate 
 - Product Version: v1.0.0.0
 - Product Installer Version: v1.0.0.0-OEM
 - Product Generic Version: v10.00.17763.0001
+- Product Generic Code Name: DX 11 Ultimate
 - Product Edition: Ultimate
 - Product OS Support: Win 10 or Win 11
 - Product OS Build Version: 22H2 or Higher
