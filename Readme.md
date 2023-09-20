@@ -20,14 +20,14 @@ Product Informations
 - Product OS Support: Win 10 or Win 11
 - Product OS Build Version: 22H2 or Higher
 - Product OS Architecture: 64bit
-- Product Install Space Size: 1x.xx MB
+- Product Install Space Size: 112.29 MB
 - Product Designer: Raptor Repack
 - Product Developer: Raptor Repack
 - Product Copyright: © Raptor Repack 2023 Co.Inc
 
 Important Notes
 ---------------
-- Microsoft DirectX 11 Ultimate (MSDX) Today Release Planned And Release Time Is 06:00pm (BDT)
+- Microsoft DirectX 11 Ultimate (MSDX) v1.0.0.0 Released.
 
 Social Media
 ------------
