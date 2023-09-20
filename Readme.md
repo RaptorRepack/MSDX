@@ -27,7 +27,7 @@ Product Informations
 
 Important Notes
 ---------------
-- Microsoft DirectX 11 Ultimate (MSDX) v1.0.0.0 Released.
+- Microsoft DirectX 11 Ultimate 64bit v1.0.0.0 (MSDX) Released.
 
 Social Media
 ------------
