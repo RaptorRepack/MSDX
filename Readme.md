@@ -1,5 +1,5 @@
-Read The Notes
---------------
+📝 Read The Main Notes
+----------------------
 
 • Microsoft DirectX 11 Ultimate Project Folder Name Is (MSDX).
 
@@ -11,8 +11,8 @@ Read The Notes
 
 • Microsoft DirectX 11 Ultimate Related Kind Of All Informations Sharing With Twitter, Please Follow Now My Twitter Page.
 
-Product Informations
---------------------
+🧾 Product Informations
+-----------------------
 - Product Name: MSDX 11 Ultimate 
 - Product Version: v1.0.0.0
 - Product Generic Version: v10.00.17763.0001
@@ -25,10 +25,10 @@ Product Informations
 - Product Developer: Raptor Repack
 - Product Copyright: © Raptor Repack 2023 Co.Inc
 
-Important Notes
----------------
-- Microsoft DirectX 11 Ultimate 64bit v1.0.0.0 (MSDX) Released.
+📝 Important Notes
+------------------
+🔴 Microsoft DirectX 11 Ultimate 64bit v1.0.0.0 (MSDX) Released.
 
-Social Media
-------------
-- Twitter Page: https://s.id/TwitterRR
+🌐 Social Media
+---------------
+🔗 Twitter Page: https://s.id/TwitterRR
