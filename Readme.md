@@ -27,7 +27,7 @@ Product Informations
 
 Important Notes
 ---------------
-- Stable Release In 20 September 2023.
+- Microsoft DirectX 11 Ultimate (MSDX) Today Release Planned And Release Time Is 06:00pm (BDT)
 
 Social Media
 ------------
