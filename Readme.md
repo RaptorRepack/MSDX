@@ -11,7 +11,7 @@
 
 • Microsoft DirectX 11 Ultimate Related Kind Of All Informations Sharing With Twitter, Please Follow Now My Twitter Page.
 
-🧾 Product Informations
+📋 Product Informations
 -----------------------
 - Product Name: MSDX 11 Ultimate 
 - Product Version: v1.0.0.0
