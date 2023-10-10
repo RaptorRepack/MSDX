@@ -27,7 +27,7 @@
 
 ⬇️ Download Now
 ---------------
-➡️ [Microsoft DirectX 11 Ultimate v1.0.0.0 64bit](https://github.com/RaptorRepack/MSDX/releases/tag/v1.0.0)
+➡️ [Microsoft DirectX 11 Ultimate Redistributable v1.0.0.0 64bit Stable](https://github.com/RaptorRepack/MSDX/releases/tag/v1.0.0)
 
 📝 Important Notes
 ------------------
