@@ -1,5 +1,5 @@
-📝 Read The Main Notes
-----------------------
+📝 Read The Notes
+-----------------
 
 • Microsoft DirectX Redistributable Project Folder Name Is (MSDX).
 
@@ -29,6 +29,14 @@
 ⬇️ Download Now
 ---------------
 ➡️ [Microsoft DirectX 11 Ultimate Redistributable v1.0.0.0 64bit Stable](https://github.com/RaptorRepack/MSDX/releases/tag/v1.0.0)
+
+⛔ Older Versions
+-----------------
+🚫 No Items
+
+📢 Upcoming Updates
+-------------------
+⏳ [v2.0.0.0](https://GitHub.com/raptorrepack/MSDX) Coming Soon...
 
 📝 Important Notes
 ------------------
