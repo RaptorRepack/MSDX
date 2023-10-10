@@ -1,11 +1,11 @@
 📝 Read The Main Notes
 ----------------------
 
-• Microsoft DirectX 11 Ultimate Project Folder Name Is (MSDX).
+• Microsoft DirectX Redistributable Project Folder Name Is (MSDX).
 
-• This Microsoft DirectX 11 Ultimate All Data Found On Microsoft Servers.
+• This Microsoft DirectX Redistributable All Data Found On Microsoft Servers.
 
-• If You Interested To My Repack Then Install This Microsoft DirectX 11 Ultimate.
+• If You Interested To My Repack Then Install This Microsoft DirectX Redistributable.
 
 • This Software Fully Open Source Software And This Software All Data Available For My GitHub Page Only.
 
@@ -15,6 +15,7 @@
 -----------------------
 - Product Name: MSDX 11 Ultimate 
 - Product Version: v1.0.0.0
+- Product Build Stage: Stable
 - Product Generic Version: v10.00.17763.0001
 - Product Generic Code Name: DX 11 Ultimate
 - Product OS Support: Win 10 or Win 11
