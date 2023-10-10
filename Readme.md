@@ -1,15 +1,15 @@
 📝 Read The Notes
 -----------------
 
-• Microsoft DirectX Redistributable Project Folder Name Is (MSDX).
+- Microsoft DirectX Redistributable Project Folder Name Is (MSDX).
 
-• This Microsoft DirectX Redistributable All Data Found On Microsoft Servers.
+- This Microsoft DirectX Redistributable All Data Found On Microsoft Servers.
 
-• If You Interested To My Repack Then Install This Microsoft DirectX Redistributable.
+- If You Interested To My Repack Then Install This Microsoft DirectX Redistributable.
 
-• This Software Fully Open Source Software And This Software All Data Available For My GitHub Page Only.
+- This Software Fully Open Source Software And This Software All Data Available For My GitHub Page Only.
 
-• Microsoft DirectX 11 Ultimate Related Kind Of All Informations Sharing With Twitter, [Please Follow Now My [Twitter](https://www.twitter.com/raptorrepack) Page.
+- Microsoft DirectX 11 Ultimate Related Kind Of All Informations Sharing With Twitter, [Please Follow Now My [Twitter](https://www.twitter.com/raptorrepack) Page.
 
 📑 Product Informations
 -----------------------
