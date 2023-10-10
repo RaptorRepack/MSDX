@@ -11,7 +11,7 @@
 
 • Microsoft DirectX 11 Ultimate Related Kind Of All Informations Sharing With Twitter, [Please Follow Now My [Twitter](https://www.twitter.com/raptorrepack) Page.
 
-📋 Product Informations
+📑 Product Informations
 -----------------------
 - Product Name: MSDX 11 Ultimate 
 - Product Version: v1.0.0.0
@@ -28,7 +28,7 @@
 
 ⬇️ Download Now
 ---------------
-➡️ [Microsoft DirectX 11 Ultimate Redistributable v1.0.0.0 64bit Stable](https://github.com/RaptorRepack/MSDX/releases/tag/v1.0.0)
+👉 [Microsoft DirectX 11 Ultimate Redistributable v1.0.0.0 64bit Stable](https://github.com/RaptorRepack/MSDX/releases/tag/v1.0.0)
 
 ⛔ Older Versions
 -----------------
@@ -44,4 +44,4 @@
 
 🌐 Social Media
 ---------------
-🐦 Follow My [Twitter](https://twitter.com/raptorrepack) Page
+👉 Follow My [Twitter](https://twitter.com/raptorrepack) Page
