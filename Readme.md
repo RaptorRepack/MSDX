@@ -9,7 +9,7 @@
 
 • This Software Fully Open Source Software And This Software All Data Available For My GitHub Page Only.
 
-• Microsoft DirectX 11 Ultimate Related Kind Of All Informations Sharing With Twitter, Please Follow Now My Twitter Page.
+• Microsoft DirectX 11 Ultimate Related Kind Of All Informations Sharing With Twitter, [Please Follow Now My Twitter Page.](https://www.twitter.com/raptorrepack)
 
 📋 Product Informations
 -----------------------
@@ -25,10 +25,14 @@
 - Product Developer: Raptor Repack
 - Product Copyright: © Raptor Repack 2023 Co.Inc
 
+⬇️ Download Now
+---------------
+⬇️ [MSDX 11 Ultimate 64bit](https://github.com/RaptorRepack/MSDX/releases/tag/v1.0.0)
+
 📝 Important Notes
 ------------------
 🔴 Microsoft DirectX 11 Ultimate 64bit v1.0.0.0 (MSDX) Released.
 
 🌐 Social Media
 ---------------
-🔗 Twitter Page: https://s.id/TwitterRR
+🐦 [Follow My Twitter Page](https://twitter.com/raptorrepack)
