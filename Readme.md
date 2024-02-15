@@ -46,4 +46,4 @@
 #### 🔴 Microsoft DirectX 11 Ultimate 64bit v1.0.0.0 (MSDX) Released.
 
 ## 🌐 Social Media
-#### [Twitter Page](https://twitter.com/raptorrepack)  [YouTube Channel](https://youtube.com/@RaptorRepack)
+#### [Twitter Page](https://twitter.com/raptorrepack) || [YouTube Channel](https://youtube.com/@RaptorRepack)
