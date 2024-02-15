@@ -27,7 +27,7 @@
 
 ## ⬇️ Download Now
 
-#### ⬇️ [MSDX 11 Ultimate Redist v1.0.0.0 64bit Stable](https://github.com/RaptorRepack/MSDX/releases/download/v1.0.0/MSDX11_Ultimate_v1.0.0.0_x64.exe)
+#### ⬇️ [MSDX 11 Ultimate Redist v1.0.0.0 64bit](https://github.com/RaptorRepack/MSDX/releases/download/v1.0.0/MSDX11_Ultimate_v1.0.0.0_x64.exe)
 
 ## ⚙️ Changelog
 
