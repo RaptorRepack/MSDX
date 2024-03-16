@@ -17,13 +17,13 @@
 - Product Build Stage: Stable
 - Product Generic Version: v10.00.17763.0001
 - Product Generic Code Name: DX 11 Ultimate
-- Product OS Support: Win 10 or Win 11
-- Product OS Build Version: 22H2 or Higher
+- Product OS Support: Windows 11
+- Product OS Build Version: 23H2
 - Product OS Architecture: 64bit
 - Product Install Space Size: 112.29 MB
 - Product Designer: Raptor Repack
 - Product Developer: Raptor Repack
-- Product Copyright: © Raptor Repack 2023 Co.Inc
+- Product Copyright: © Raptor Repack 2024 Co.Inc
 
 ## ⬇️ Direct Download Now
 
