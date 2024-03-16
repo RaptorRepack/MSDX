@@ -1,14 +1,14 @@
 ## 📝 Read The Notes
 
-- Microsoft DirectX Redistributable Project Folder Name Is (MSDX).
+- MSDX Software Project Folder Name Is MSDX.
 
-- This Microsoft DirectX Redistributable All Data Found On Microsoft Servers.
+- This MSDX Software All Data Found On Microsoft Servers.
 
-- If You Interested To My Repack Then Install This Microsoft DirectX Redistributable.
+- If You Interested To My Repack Then Install This MSDX Software.
 
-- This Software Fully Open Source Software And This Software All Data Available For My GitHub Page Only.
+- This MSDX Software Software Fully Open Source Software And This Software All Data Available Only For My GitHub Page or Microsoft Webpage.
 
-- Microsoft DirectX 11 Ultimate Related Kind Of All Informations Sharing With Twitter, Please Follow Now My Twitter Page.
+- MSDX Software Related Kind Of All Informations Sharing With Twitter, Please Follow Now My Twitter Page.
 
 ## 🧾 Product Informations
 
@@ -25,9 +25,9 @@
 - Product Developer: Raptor Repack
 - Product Copyright: © Raptor Repack 2023 Co.Inc
 
-## ⬇️ Download Now
+## ⬇️ Direct Download Now
 
-#### ⬇️ [MSDX 11 Ultimate Redist v1.0.0.0 64bit](https://github.com/RaptorRepack/MSDX/releases/download/v1.0.0/MSDX11_Ultimate_v1.0.0.0_x64.exe)
+####  [Download Now MSDX Software](https://github.com/RaptorRepack/MSDX/releases/download/v1.0.0/MSDX11_Ultimate_v1.0.0.0_x64.exe)
 
 ## ⚙️ Changelog
 
@@ -43,7 +43,9 @@
 
 ## 📝 Important Notes
 
-#### 🔴 Microsoft DirectX 11 Ultimate 64bit v1.0.0.0 (MSDX) Released.
+#### 🔴 
+
+#### 🔴 Highly Recommended For Setup File Install To Run as Administrator Click Now, Then Finish The Repack Toolkit Installation Setup File.
 
 ## 🌐 Social Media
-#### [Twitter Page](https://twitter.com/raptorrepack) || [YouTube Channel](https://youtube.com/@RaptorRepack)
+#### [Follow Now](https://twitter.com/raptorrepack) || [Subscribe Now](https://youtube.com/@RaptorRepack)
