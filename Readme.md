@@ -43,9 +43,9 @@
 
 ## 📝 Important Notes
 
-##### • Highly recommended For Windows 11 23H2 Pro Edition To Use This MSDX Software.
+###### • Highly recommended For Windows 11 23H2 Pro Edition To Use This MSDX Software.
 
-##### • Highly Recommended For Setup File Install To Run as Administrator Click Now, Then Finish The Repack Toolkit Installation Setup File.
+###### • Highly Recommended For Setup File Install To Run as Administrator Click Now, Then Finish The Repack Toolkit Installation Setup File.
 
 ## 🌐 Social Media
 ##### [Follow Now](https://twitter.com/raptorrepack) || [Subscribe Now](https://youtube.com/@RaptorRepack)
