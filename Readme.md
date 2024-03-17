@@ -31,7 +31,7 @@
 
 ## ⚙️ Changelog
 
-##### 💎 [What's New](https://github.com/RaptorRepack/MSDX/releases/tag/v1.0.0)
+##### b💎 [What's New](https://github.com/RaptorRepack/MSDX/releases/tag/v1.0.0)
 
 ## 📦 Older Versions
 
