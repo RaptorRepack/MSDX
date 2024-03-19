@@ -4,7 +4,7 @@
 
 • This MSDX Software All Data Found On Microsoft Servers.
 
-• If You Interested To My Repack Then Install This MSDX Software.
+• If You Interested To My Repack Then Install This MSDX Repack Software.
 
 • This MSDX Software Software Fully Open Source Software And This Software All Data Available Only For My GitHub Page or Microsoft Webpage.
 
